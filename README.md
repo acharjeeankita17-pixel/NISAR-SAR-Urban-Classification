@@ -27,6 +27,14 @@ The original data was available in HDF5 format. A smaller spatial subset was pre
 
 NISAR Data → HHHH Extraction → Spatial Subsetting → GeoTIFF → dB Conversion → Urban/Non-Urban Classification → Cleaning → Final Overlay
 
+## Technical Study
+
+This project includes a basic study of the NISAR mission, data products, data processing workflow, applications, and the Bhoonidhi Portal.
+
+## Practical Demonstration
+
+The practical demonstration was carried out using NISAR S-band HHHH data for the Kolkata study area. The data was processed to prepare backscatter, dB, urban/non-urban classification, and final overlay maps.
+
 ## Results
 
 Four main maps were prepared:
@@ -52,6 +60,10 @@ Future work can include:
 - Using reference or ground-truth data
 - Performing accuracy assessment
 - Conducting urban change detection
+
+## Documentation
+
+The detailed technical report, methodology, and processing steps are provided in this repository.
 
 ## Author
 
